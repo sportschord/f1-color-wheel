@@ -1,0 +1,392 @@
+[
+    {
+        "season": 1958,
+        "entrant": "Vandervell Products",
+        "country": "United Kingdom",
+        "constructor": "Vanwall"
+    },
+    {
+        "season": 1959,
+        "entrant": "Cooper Car Company",
+        "country": "United Kingdom",
+        "constructor": "Cooper-Climax"
+    },
+    {
+        "season": 1960,
+        "entrant": "Cooper Car Company",
+        "country": "United Kingdom",
+        "constructor": "Cooper-Climax"
+    },
+    {
+        "season": 1961,
+        "entrant": "Scuderia Ferrari SpA SEFAC",
+        "country": "Italy",
+        "constructor": "Ferrari"
+    },
+    {
+        "season": 1962,
+        "entrant": "Owen Racing Organisation",
+        "country": "United Kingdom",
+        "constructor": "BRM"
+    },
+    {
+        "season": 1963,
+        "entrant": "Team Lotus",
+        "country": "United Kingdom",
+        "constructor": "Lotus-Climax"
+    },
+    {
+        "season": 1964,
+        "entrant": "Scuderia Ferrari SpA SEFAC",
+        "country": "Italy",
+        "constructor": "Ferrari"
+    },
+    {
+        "season": 1965,
+        "entrant": "Team Lotus",
+        "country": "United Kingdom",
+        "constructor": "Lotus-Climax"
+    },
+    {
+        "season": 1966,
+        "entrant": "Brabham Racing Organisation",
+        "country": "United Kingdom",
+        "constructor": "Brabham-Repco"
+    },
+    {
+        "season": 1967,
+        "entrant": "Brabham Racing Organisation",
+        "country": "United Kingdom",
+        "constructor": "Brabham-Repco"
+    },
+    {
+        "season": 1968,
+        "entrant": "Gold Leaf Team Lotus",
+        "country": "United Kingdom",
+        "constructor": "Lotus-Ford Cosworth"
+    },
+    {
+        "season": 1969,
+        "entrant": "Matra International",
+        "country": "France",
+        "constructor": "Matra-Ford Cosworth"
+    },
+    {
+        "season": 1970,
+        "entrant": "Gold Leaf Team Lotus",
+        "country": "United Kingdom",
+        "constructor": "Lotus-Ford Cosworth"
+    },
+    {
+        "season": 1971,
+        "entrant": "Elf Team Tyrrell",
+        "country": "United Kingdom",
+        "constructor": "Tyrrell-Ford Cosworth"
+    },
+    {
+        "season": 1972,
+        "entrant": "John Player Team Lotus",
+        "country": "United Kingdom",
+        "constructor": "Lotus-Ford Cosworth"
+    },
+    {
+        "season": 1973,
+        "entrant": "John Player Team Lotus",
+        "country": "United Kingdom",
+        "constructor": "Lotus-Ford Cosworth"
+    },
+    {
+        "season": 1974,
+        "entrant": "Marlboro Team Texaco",
+        "country": "United Kingdom",
+        "constructor": "McLaren-Ford Cosworth"
+    },
+    {
+        "season": 1975,
+        "entrant": "Scuderia Ferrari SpA SEFAC",
+        "country": "Italy",
+        "constructor": "Ferrari"
+    },
+    {
+        "season": 1976,
+        "entrant": "Scuderia Ferrari SpA SEFAC",
+        "country": "Italy",
+        "constructor": "Ferrari"
+    },
+    {
+        "season": 1977,
+        "entrant": "Scuderia Ferrari SpA SEFAC",
+        "country": "Italy",
+        "constructor": "Ferrari"
+    },
+    {
+        "season": 1978,
+        "entrant": "John Player Team Lotus",
+        "country": "United Kingdom",
+        "constructor": "Lotus-Ford Cosworth"
+    },
+    {
+        "season": 1979,
+        "entrant": "Scuderia Ferrari SpA SEFAC",
+        "country": "Italy",
+        "constructor": "Ferrari"
+    },
+    {
+        "season": 1980,
+        "entrant": "Albilad Williams Racing Team",
+        "country": "United Kingdom",
+        "constructor": "Williams-Ford Cosworth"
+    },
+    {
+        "season": 1981,
+        "entrant": "Albilad Williams Racing Team",
+        "country": "United Kingdom",
+        "constructor": "Williams-Ford Cosworth"
+    },
+    {
+        "season": 1982,
+        "entrant": "Scuderia Ferrari SpA SEFAC",
+        "country": "Italy",
+        "constructor": "Ferrari"
+    },
+    {
+        "season": 1983,
+        "entrant": "Scuderia Ferrari SpA SEFAC",
+        "country": "Italy",
+        "constructor": "Ferrari"
+    },
+    {
+        "season": 1984,
+        "entrant": "Marlboro McLaren International",
+        "country": "United Kingdom",
+        "constructor": "McLaren-TAG"
+    },
+    {
+        "season": 1985,
+        "entrant": "Marlboro McLaren International",
+        "country": "United Kingdom",
+        "constructor": "McLaren-TAG"
+    },
+    {
+        "season": 1986,
+        "entrant": "Canon Williams Honda Team",
+        "country": "United Kingdom",
+        "constructor": "Williams-Honda"
+    },
+    {
+        "season": 1987,
+        "entrant": "Canon Williams Honda Team",
+        "country": "United Kingdom",
+        "constructor": "Williams-Honda"
+    },
+    {
+        "season": 1988,
+        "entrant": "Honda Marlboro McLaren",
+        "country": "United Kingdom",
+        "constructor": "McLaren-Honda"
+    },
+    {
+        "season": 1989,
+        "entrant": "Honda Marlboro McLaren",
+        "country": "United Kingdom",
+        "constructor": "McLaren-Honda"
+    },
+    {
+        "season": 1990,
+        "entrant": "Honda Marlboro McLaren",
+        "country": "United Kingdom",
+        "constructor": "McLaren-Honda"
+    },
+    {
+        "season": 1991,
+        "entrant": "Honda Marlboro McLaren",
+        "country": "United Kingdom",
+        "constructor": "McLaren-Honda"
+    },
+    {
+        "season": 1992,
+        "entrant": "Canon Williams Renault",
+        "country": "United Kingdom",
+        "constructor": "Williams-Renault"
+    },
+    {
+        "season": 1993,
+        "entrant": "Canon Williams Renault",
+        "country": "United Kingdom",
+        "constructor": "Williams-Renault"
+    },
+    {
+        "season": 1994,
+        "entrant": "Rothmans Williams Renault",
+        "country": "United Kingdom",
+        "constructor": "Williams-Renault"
+    },
+    {
+        "season": 1995,
+        "entrant": "Mild Seven Benetton Renault",
+        "country": "France",
+        "constructor": "Benetton-Renault"
+    },
+    {
+        "season": 1996,
+        "entrant": "Rothmans Williams Renault",
+        "country": "United Kingdom",
+        "constructor": "Williams-Renault"
+    },
+    {
+        "season": 1997,
+        "entrant": "Rothmans Williams Renault",
+        "country": "United Kingdom",
+        "constructor": "Williams-Renault"
+    },
+    {
+        "season": 1998,
+        "entrant": "West McLaren Mercedes",
+        "country": "United Kingdom",
+        "constructor": "McLaren-Mercedes"
+    },
+    {
+        "season": 1999,
+        "entrant": "Scuderia Ferrari Marlboro",
+        "country": "Italy",
+        "constructor": "Ferrari"
+    },
+    {
+        "season": 2000,
+        "entrant": "Scuderia Ferrari Marlboro",
+        "country": "Italy",
+        "constructor": "Ferrari"
+    },
+    {
+        "season": 2001,
+        "entrant": "Scuderia Ferrari Marlboro",
+        "country": "Italy",
+        "constructor": "Ferrari"
+    },
+    {
+        "season": 2002,
+        "entrant": "Scuderia Ferrari Marlboro",
+        "country": "Italy",
+        "constructor": "Ferrari"
+    },
+    {
+        "season": 2003,
+        "entrant": "Scuderia Ferrari Marlboro",
+        "country": "Italy",
+        "constructor": "Ferrari"
+    },
+    {
+        "season": 2004,
+        "entrant": "Scuderia Ferrari Marlboro",
+        "country": "Italy",
+        "constructor": "Ferrari"
+    },
+    {
+        "season": 2005,
+        "entrant": "Mild Seven Renault F1 Team",
+        "country": "France",
+        "constructor": "Renault"
+    },
+    {
+        "season": 2006,
+        "entrant": "Mild Seven Renault F1 Team",
+        "country": "France",
+        "constructor": "Renault"
+    },
+    {
+        "season": 2007,
+        "entrant": "Scuderia Ferrari Marlboro",
+        "country": "Italy",
+        "constructor": "Ferrari"
+    },
+    {
+        "season": 2008,
+        "entrant": "Scuderia Ferrari Marlboro",
+        "country": "Italy",
+        "constructor": "Ferrari"
+    },
+    {
+        "season": 2009,
+        "entrant": "Brawn GP F1 Team",
+        "country": "United Kingdom",
+        "constructor": "Brawn-Mercedes"
+    },
+    {
+        "season": 2010,
+        "entrant": "Red Bull Racing",
+        "country": "Austria",
+        "constructor": "Red Bull-Renault"
+    },
+    {
+        "season": 2011,
+        "entrant": "Red Bull Racing",
+        "country": "Austria",
+        "constructor": "Red Bull-Renault"
+    },
+    {
+        "season": 2012,
+        "entrant": "Red Bull Racing",
+        "country": "Austria",
+        "constructor": "Red Bull-Renault"
+    },
+    {
+        "season": 2013,
+        "entrant": "Infiniti Red Bull Racing",
+        "country": "Austria",
+        "constructor": "Red Bull-Renault"
+    },
+    {
+        "season": 2014,
+        "entrant": "Mercedes AMG Petronas F1 Team",
+        "country": "Germany",
+        "constructor": "Mercedes"
+    },
+    {
+        "season": 2015,
+        "entrant": "Mercedes AMG Petronas F1 Team",
+        "country": "Germany",
+        "constructor": "Mercedes"
+    },
+    {
+        "season": 2016,
+        "entrant": "Mercedes AMG Petronas F1 Team",
+        "country": "Germany",
+        "constructor": "Mercedes"
+    },
+    {
+        "season": 2017,
+        "entrant": "Mercedes AMG Petronas Motorsport",
+        "country": "Germany",
+        "constructor": "Mercedes"
+    },
+    {
+        "season": 2018,
+        "entrant": "Mercedes AMG Petronas Motorsport",
+        "country": "Germany",
+        "constructor": "Mercedes"
+    },
+    {
+        "season": 2019,
+        "entrant": "Mercedes-AMG Petronas Motorsport",
+        "country": "Germany",
+        "constructor": "Mercedes"
+    },
+    {
+        "season": 2020,
+        "entrant": "Mercedes-AMG Petronas F1 Team",
+        "country": "Germany",
+        "constructor": "Mercedes"
+    },
+    {
+        "season": 2021,
+        "entrant": "Mercedes-AMG Petronas F1 Team",
+        "country": "Germany",
+        "constructor": "Mercedes"
+    },
+    {
+        "season": 2022,
+        "entrant": "Oracle Red Bull Racing",
+        "country": "Austria",
+        "constructor": "Red Bull-RBPT"
+    }
+]
