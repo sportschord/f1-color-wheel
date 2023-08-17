@@ -3,10 +3,11 @@
 	import data from '../data/data.json';
 	import cols from '../data/teamcols.json';
 
-	let height = 700;
-	let width = height;
-	let outer = height / 4;
-	let inner = height / 5.5;
+	let pageheight = 841
+	let pagewidth = 594
+	let height = 600;
+	let outer = height / 3.5;
+	let inner = height / 5;
 
 	const arcGenerator = arc().innerRadius(inner).outerRadius(outer);
 
@@ -23,12 +24,13 @@
 	}
 
 	// Dynamic transform calculation
-	let centerX = width / 2;
-	let centerY = height / 2;
+	let centerX = pagewidth / 2;
+	let centerY = pageheight / 2;
 	$: transform = `translate(${centerX}, ${centerY})`;
 </script>
 
-<svg {width} {height}>
+<svg width = {pagewidth} height = {pageheight}>
+	<rect width = {pagewidth} height = {pageheight} fill = 'white'></rect>
 	<g {transform}>
 		{#each pieData as slice, i}
 			<path
